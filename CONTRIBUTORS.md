@@ -14,4 +14,9 @@ Liliana is an Independent Arts Administrator whose work focuses on Latinx and Po
 
 #### Leigh Peterson, Intern
 
-After two years working in Sotheby’s Preferred department, Leigh has taken a position as a researcher for the art advisory Morgan Walker Fine Art. Leigh received her B.A. from Bryn Mawr College, and has interned at The Frick Collection, The Metropolitan Museum of Art, and the
+After two years working in Sotheby’s Preferred department, Leigh has taken a position as a researcher for the art advisory Morgan Walker Fine Art. Leigh received her B.A. from Bryn Mawr College, and has interned at The Frick Collection, The Metropolitan Museum of Art, and the Museum of Fine Arts, Boston. 
+
+#### William Schweller, Intern
+
+William is a Fine Art Specialist at Clarke Auction Gallery in Larchmont, New York. He is a graduate of Bowdoin College, where he served as an Assistant to the Curator at the college’s Museum of Art.
+
