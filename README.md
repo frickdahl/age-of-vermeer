@@ -22,8 +22,9 @@ While we have worked hard to provide the most complete dataset possible, informa
 We plan to update the datasets with new and revised information on a semi-regular basis. You are advised to regularly update your copy of the datasets to ensure you are using the best available information.
 ### Pull Requests
 We cannot accept pull requests for the data at this time. If you find a mistake or have a correction or a suggestion for improvement, please contact dahlprograms@frick.org.  
-Attribution
+### Attribution
 When possible, the Frick respectfully requests acknowledgement as a source. This will help to preserve the datasets. By citing our data or providing acknowledgement, you will help others to replicate, verify, and further explore your interpretation of our data.  
+
 Additionally, please share your work with us! We love seeing how people are using this data. 
 ### No Endorsement/Representation
 Use of this dataset does not grant or imply The Frick Collection’s approval, commission, or support of your work. The Frick Collection retains the rights to all of its trademarks, and they are not part of the dataset. If you transform or modify to the dataset, you must clearly distinguish the resulting work as having been modified from The Frick Collection’s dataset. If you create a derivative dataset from the Frick dataset, we ask that you consider releasing the derivative under a CC0 license, which mirrors the licensing of the Frick dataset. 
