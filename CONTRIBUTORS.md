@@ -2,11 +2,11 @@
 
 #### Gabriella Bloom, Intern
 
-A 2018 graduate of Duke University, Gabriella is currently a master’s degree candidate in Art Business at Sotheby’s Institute of Art and an Archival Intern at Mitchell-Innes & Nash. Her master’s thesis examines the digitization of museum collections and how this has affected the restitution of works of art seized during the Holocaust. She was formerly a Research Assistant at Duke’s Wired! Lab, where she contributed to the 2017 exhibition “A Portrait of Venice: Jacopo de’ Barbari’s View of 1500.” 
+A 2018 graduate of Duke University, Gabriella is currently a master’s degree candidate in Art Business at Sotheby’s Institute of Art and an Archival Intern at Mitchell-Innes & Nash. Her master’s thesis examines the digitization of museum collections and how this has affected the restitution of works of art seized during the Holocaust. She was formerly a Research Assistant at Duke’s Wired! Lab, where she contributed to the 2017 exhibition [“A Portrait of Venice: Jacopo de’ Barbari’s View of 1500.”](http://www.dukewired.org/projects/a-portrait-of-venice/) 
 
 #### Katherine Dau, Intern and Project Consultant
 
-Katherine is a 2019 graduate of Washington and Lee University and a recipient of a Fulbright Combined Grant to Austria. Beginning in the Fall 2019 she will work on a digital model of St. Stephan’s Cathedral in Vienna and teach English. While at Washington and Lee, she was an Andrew W. Mellon Digital Humanities Fellow and a contributor to “Florence As It Was,” a digital reconstruction of Florence in 1500.
+Katherine is a 2019 graduate of Washington and Lee University and a recipient of a Fulbright Combined Grant to Austria. Beginning in the Fall 2019 she will work on a digital model of St. Stephen’s Cathedral in Vienna and teach English. While at Washington and Lee, she was a Mellon Digital Humanities Fellow and a contributor to [“Florence As It Was,”](http://florenceasitwas.wlu.edu/) a digital reconstruction of Florence in 1500.
 
 #### Liliana Morales, Intern
 
